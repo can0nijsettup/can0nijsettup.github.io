@@ -1,6 +1,6 @@
 #  Canon.com/ijsetup
 
-[![Canon.com/ijsetup](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup](getstartted.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 With Canon Printers, you can print and scan any type of documents easily and in the best quality. Download and install canon ij setup from its official website: [canon.com/ijsetup](https://can0nijsettup.github.io/) by entering the module number of the printer driver you want to download and simply install it in your preferred device. Connect it with your network and you are good to go with canon printers.
 
